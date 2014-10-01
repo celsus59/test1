@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'C:/Users/florian/Documents/NetBeansProjects/daddy/daddy/app/config/routing_dev.yml'
